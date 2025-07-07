@@ -7,3 +7,4 @@ Notes and usage details for ai-sdk-cpp.
 - clarify the setup steps
 - link the usage section
 - add a note about the defaults
+- add a note about the defaults
